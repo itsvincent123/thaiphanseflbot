@@ -1,0 +1,31 @@
+{
+  "name": "selfrythm",
+  "version": "1.1.0",
+  "description": "This project is a **Self Rythm Bot** in **[Node JS](https://nodejs.org/)**. His purpose is to do the same actions as **[Rythm](https://rythmbot.co/)**  while being a selfbot. This has many advantages, for example you can use it on any servs you're in, even without permissions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDiscorders/SelfRythm.git"
+  },
+  "author": "The Discorders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDiscorders/SelfRythm/issues"
+  },
+  "homepage": "https://github.com/TheDiscorders/SelfRythm#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "ascii-table": "^0.0.9",
+    "discord-player": "^6.6.8",
+    "discord.js-selfbot-v13": "^2.15.1",
+    "enmap": "^5.9.8",
+    "play-dl": "^1.9.7",
+    "spotify-url-info": "^3.2.14",
+    "youtube-sr": "^4.3.11",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.8.4"
+  }
+}
