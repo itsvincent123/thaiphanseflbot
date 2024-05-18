@@ -20,6 +20,7 @@
     "@discordjs/voice": "^0.17.0",
     "ascii-table": "^0.0.9",
     "discord-player": "^6.6.8",
+    "discord.js": "^14.15.2",
     "discord.js-selfbot-v13": "^2.15.1",
     "enmap": "^5.9.8",
     "play-dl": "^1.9.7",
